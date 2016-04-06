@@ -7,7 +7,7 @@ Standards-Version: 3.9.5
 Package: synaptic-testing
 Architecture: all
 Depends: ${misc:Depends}, ${shlibs:Depends}, synaptic, libnotify-bin
-Description: MX Test
+Description: Launch Synaptic with Test Repo Enabled
  Synaptic-testing is a wrapper for Synaptic that enables MX Linux testing 
  repositories and does a update to facilitate installing MX Linux testing packages
  at Synaptic exit it removes the testing repositories

@@ -11,20 +11,20 @@ Standards-Version: 3.9.5
 Package-List:
  synaptic-testing deb admin optional arch=all
 Checksums-Sha1:
- aaada8b962a8ce2c2de1ff959780551c0ca7d554 1312 synaptic-testing_0.16.4.tar.xz
+ ef06e26bfb2eb70ad622bcc19d5a6ec6295195ce 14556 synaptic-testing_0.16.4.tar.xz
 Checksums-Sha256:
- dc1686d0183255a7cc3f73005169e3c80058ffa081cb4b4caf73f68ccc85e553 1312 synaptic-testing_0.16.4.tar.xz
+ 27ac78b31306226a0abc1d3b7c3db78e7f3a746dd77ff128c2b17c46c5c89d28 14556 synaptic-testing_0.16.4.tar.xz
 Files:
- 34590187c0f2085ea96f1b9f61166635 1312 synaptic-testing_0.16.4.tar.xz
+ 68e96d800ebb5a4070616695e98abd24 14556 synaptic-testing_0.16.4.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJXBEusAAoJEHCTjHgGee6Y9vYH/1yjMZme3cEKs4Ziy4sKOETV
-Hjlt+Ow4e8VqHApavGOvu9DDNZ8nOh/qC6kw2n8+Z1v3RNIue1UGogTyeaI9+uA7
-xfbE2dg2E1LVoTcXyVadit0l6ShLTe9wr7YOBka4c7NIh6e9gAKepi8zUxfKaJ4s
-r9Niik/ptnkGzoNDLi4bBqLgMO44nBhC5yxj3BVPPqKqzXL1XBBzMbOhtRVoZcLN
-nheFQ7+fB8bMYwUC+S7lSHszoKVWm2ZCkEMhYxLOOyI/kQisc3gc2YFQwppKFT9/
-wlDMwZ8OighJ+WpFW6RvCkkXoiG9VXRhfo7Rr3i060TlJ56iMz3COO76g/gWkTM=
-=VKYd
+iQEcBAEBAgAGBQJXBG+ZAAoJEHCTjHgGee6Y8qYH/2Xg0FkjNdfwPFBnImUIgCFj
+C2bCyko3UC6LUFutYcGPvWocMWy+qSaft+6+CT9BJ0FNSO6GJJyVyK/48pRdtWUl
+Ub9QIJ/gKPAaRhSfb3LZtaAZuRElvBHUiIw3UUuy2ied5ZIjyVvzSTMKmRa52c7w
+BHGkFDAKujmGuf03aHu7vu86eje6p+V55wI0ptWRKtF4DxpfdHcY/P1rmrvNnilW
+QeNtpypQdLio96h68zethzIuRkxuDVqM2yUrD3ZuTnsT2Ym7NdpBjBlBH/hOIyKs
+AdnJ0Yk5HzL2LyBly+5snOYhRis6nq3U0iKpyz6y58dZ8F2mhh8S99bGg3y+0LA=
+=AFup
 -----END PGP SIGNATURE-----

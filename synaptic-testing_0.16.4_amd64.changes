@@ -12,32 +12,32 @@ Urgency: medium
 Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
 Changed-By: Adrian <adrian@mxlinux.org>
 Description:
- synaptic-testing - MX Test
+ synaptic-testing - Launch Synaptic with Test Repo Enabled
 Changes:
  synaptic-testing (0.16.4) mx; urgency=medium
  .
    * initial release
 Checksums-Sha1:
- 7624cf9fecd5fe2ca80f31472225c1d8496d282d 1068 synaptic-testing_0.16.4.dsc
- aaada8b962a8ce2c2de1ff959780551c0ca7d554 1312 synaptic-testing_0.16.4.tar.xz
- 17ea301dca37b528a95fa0b4e7c4da7a8e4d1bac 1850 synaptic-testing_0.16.4_all.deb
+ 1034b7387875b9f93ea5604687d3de1065206e51 1071 synaptic-testing_0.16.4.dsc
+ ef06e26bfb2eb70ad622bcc19d5a6ec6295195ce 14556 synaptic-testing_0.16.4.tar.xz
+ afeb416a71eda49cc1aa545ce05d8685be5f9106 1872 synaptic-testing_0.16.4_all.deb
 Checksums-Sha256:
- c39fe93e92ee44bdd393d4806b1c4bc9aa92c51d72ad979d12712a5794773381 1068 synaptic-testing_0.16.4.dsc
- dc1686d0183255a7cc3f73005169e3c80058ffa081cb4b4caf73f68ccc85e553 1312 synaptic-testing_0.16.4.tar.xz
- 5ae957eeeccd57d95da31461d8c521940719c71b188ac2c568deed7fd0c99ba7 1850 synaptic-testing_0.16.4_all.deb
+ 28dbc32b9ad2a0baa2fa863104b1d73b5081652592450874c70c1cc97834a591 1071 synaptic-testing_0.16.4.dsc
+ 27ac78b31306226a0abc1d3b7c3db78e7f3a746dd77ff128c2b17c46c5c89d28 14556 synaptic-testing_0.16.4.tar.xz
+ 58635f1d27638f9fc7beb64330986b863836d2dc387e8d5f29d62cce3f12194a 1872 synaptic-testing_0.16.4_all.deb
 Files:
- 0afc8a2996ee7ce69ff15229515a0dab 1068 admin optional synaptic-testing_0.16.4.dsc
- 34590187c0f2085ea96f1b9f61166635 1312 admin optional synaptic-testing_0.16.4.tar.xz
- 04dd6a26233f971f1b193e9e8d0c15e2 1850 admin optional synaptic-testing_0.16.4_all.deb
+ 45c8d2d100b2839710abc53a700fc647 1071 admin optional synaptic-testing_0.16.4.dsc
+ 68e96d800ebb5a4070616695e98abd24 14556 admin optional synaptic-testing_0.16.4.tar.xz
+ ef52783be15f67194d4c8f4d3bc495b6 1872 admin optional synaptic-testing_0.16.4_all.deb
 
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJXBEuwAAoJEHCTjHgGee6Yf6MIANeT0cpGcWegMFCAMm2YyMjq
-J9tmEXYMYOhWkxTz9D9QHbC6ttWlGG3Fbfbdvf61SJwj5+6/caod8r1Her2K23ZR
-z/fz4HSc6ByfTgWKaJoXA8ejNbc1ApxCan4CYVmP7X9jMUaRGsE4HxCJck9iyXSx
-3AIP+1dUXI5EIz8YnCIUVALMkc26djWr0G2Bc5WZFimaEWksk/+kLiBlYwxo4uJE
-AfUuk1ICJAdmmVHyTmrmKZFk7Rp+tBjT4yI5b3KBDu2X2A3bGqs/9kiAGPXuPmaM
-cfmaMq1ypex0YJjOqwkd/80XlI3tAToxsGivdqi10Ei129MjIrEoYNNFl0LWzTI=
-=VDH2
+iQEcBAEBAgAGBQJXBG+eAAoJEHCTjHgGee6YSJMIAL6FEs3l9lUtdSvYl/WwgYBC
+cuTDWy1umFNgY7XwMxAnp8uOuMo2EX7Hi+3ihqwfQODEBRAmjBgX0QVPh13mZQYU
+lFv1mDR7VgKUs36z262V145koJu/GNTSMTOLFdvU8LiQdgk1yEvPO0yqUn7nY68o
+INydZfOYzdyUp+bddXnJFnpvhEJG5fy+Im5QWAOJsyWPFM0W4kjXfGeopCDQ3r1h
+ROkGHrfiSXlYaHKybAwAiRAGdbaFrJ+ZgeC/NPJZwIvS0Uc0d/ZsssIA0hxZ53BH
+OPYUbryJnkR/zpUe8v+72jmaCGxFI/z0MtYf+wlD79nX/Z8bwkWdJ2HhBkWfA1o=
+=aXuT
 -----END PGP SIGNATURE-----
