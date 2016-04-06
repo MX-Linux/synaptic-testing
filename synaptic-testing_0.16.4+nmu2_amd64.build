@@ -1,19 +1,19 @@
  dpkg-buildpackage -rfakeroot -D -us -uc
 dpkg-buildpackage: source package synaptic-testing
-dpkg-buildpackage: source version 0.16.4
+dpkg-buildpackage: source version 0.16.4+nmu2
 dpkg-buildpackage: source distribution mx
-dpkg-buildpackage: source changed by Adrian <adrian@mxlinux.org>
- dpkg-source --before-build build
+dpkg-buildpackage: source changed by dolphin_oracle <dolphin@littlebyte>
+ dpkg-source --before-build synaptic-testing
 dpkg-buildpackage: host architecture amd64
  fakeroot debian/rules clean
 dh clean
    dh_testdir
    dh_auto_clean
    dh_clean
- dpkg-source -b build
+ dpkg-source -b synaptic-testing
 dpkg-source: info: using source format `3.0 (native)'
-dpkg-source: info: building synaptic-testing in synaptic-testing_0.16.4.tar.xz
-dpkg-source: info: building synaptic-testing in synaptic-testing_0.16.4.dsc
+dpkg-source: info: building synaptic-testing in synaptic-testing_0.16.4+nmu2.tar.xz
+dpkg-source: info: building synaptic-testing in synaptic-testing_0.16.4+nmu2.dsc
  debian/rules build
 dh build
    dh_testdir
@@ -40,14 +40,8 @@ dpkg-gencontrol: warning: Depends field of package synaptic-testing: unknown sub
 dpkg-gencontrol: warning: File::FcntlLock not available; using flock which is not NFS-safe
    dh_md5sums
    dh_builddeb
-dpkg-deb: building package `synaptic-testing' in `../synaptic-testing_0.16.4_all.deb'.
- dpkg-genchanges  >../synaptic-testing_0.16.4_amd64.changes
+dpkg-deb: building package `synaptic-testing' in `../synaptic-testing_0.16.4+nmu2_all.deb'.
+ dpkg-genchanges  >../synaptic-testing_0.16.4+nmu2_amd64.changes
 dpkg-genchanges: including full source code in upload
- dpkg-source --after-build build
+ dpkg-source --after-build synaptic-testing
 dpkg-buildpackage: full upload; Debian-native package (full source is included)
-Now signing changes and any dsc files...
- signfile synaptic-testing_0.16.4.dsc Adrian <adrian@mxlinux.org>
-
- signfile synaptic-testing_0.16.4_amd64.changes Adrian <adrian@mxlinux.org>
-
-Successfully signed dsc and changes files

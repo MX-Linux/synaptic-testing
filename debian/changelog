@@ -1,3 +1,10 @@
+synaptic-testing (0.16.4+nmu2) mx; urgency=medium
+
+  * fixed icon
+  * 
+
+ -- dolphin_oracle <dolphin@littlebyte>  Wed, 06 Apr 2016 19:26:03 -0400
+
 synaptic-testing (0.16.4+nmu1) mx; urgency=medium
 
   * fixed desktop file, tweaked notifications
