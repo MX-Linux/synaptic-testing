@@ -1,3 +1,10 @@
+synaptic-testing (0.16.4+nmu1) mx; urgency=medium
+
+  * fixed desktop file, tweaked notifications
+  * 
+
+ -- dolphin_oracle <dolphinoracle@gmail.com>  Wed, 06 Apr 2016 19:12:28 -0400
+
 synaptic-testing (0.16.4) mx; urgency=medium
 
   * initial release
