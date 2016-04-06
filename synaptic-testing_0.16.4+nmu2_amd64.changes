@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Wed, 06 Apr 2016 19:26:03 -0400
+Source: synaptic-testing
+Binary: synaptic-testing
+Architecture: source all
+Version: 0.16.4+nmu2
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphin_oracle <dolphin@littlebyte>
+Description:
+ synaptic-testing - Launch Synaptic with Test Repo Enabled
+Changes:
+ synaptic-testing (0.16.4+nmu2) mx; urgency=medium
+ .
+   * fixed icon
+   *
+Checksums-Sha1:
+ 1871b5ae5b9188d7ed5fc652016be8492c5d2efe 570 synaptic-testing_0.16.4+nmu2.dsc
+ 300bed80ec270a8ea4ced1c5523e7427c3e7e488 65028 synaptic-testing_0.16.4+nmu2.tar.xz
+ c03d068a3fd9268aad2b1c30c0239641cd0cd97c 2054 synaptic-testing_0.16.4+nmu2_all.deb
+Checksums-Sha256:
+ 33fad7c8405a4a8ed920e54eec212ad34cf38ec9850614cee3b51d37aff537ff 570 synaptic-testing_0.16.4+nmu2.dsc
+ fc433e26a71a909af20aa77ebb657d20f95ded507978c3372d93be94306ca52c 65028 synaptic-testing_0.16.4+nmu2.tar.xz
+ 72f7d73d79957a560c9172242797575c4c22224b84fa140f5e187be12c069e27 2054 synaptic-testing_0.16.4+nmu2_all.deb
+Files:
+ 43d205daad7c44aeb388315b5e788483 570 admin optional synaptic-testing_0.16.4+nmu2.dsc
+ 7f6a23521861063c70d5f19bc3941419 65028 admin optional synaptic-testing_0.16.4+nmu2.tar.xz
+ 9fcbc6acc3e75a3eb2331554da628a57 2054 admin optional synaptic-testing_0.16.4+nmu2_all.deb
